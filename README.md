@@ -36,7 +36,7 @@ The collected data is then transmitted wirelessly to the Blynk app installed on 
 
 To enable seamless connectivity and data transmission, the device is configured to automatically connect to a pre-defined Wi-Fi network upon startup. This eliminates the need for manual intervention and ensures continuous monitoring and control capabilities.
 
-The ventilation support is provided through the pumping action of an Ambu bag, a self-inflating manual resuscitator commonly used in medical emergencies. The Ambu bag is connected to an arm, which is driven by a motor controlled by the system. The speed of the motor, and consequently the frequency of pumps delivered by the Ambu bag, can be adjusted using a potentiometer.
+The ventilation support is provided through the pumping action of an Ambu bag, a self-inflating manual resuscitator commonly used in medical emergencies. The Ambu bag is connected to an arm (rack and pinion setup), which is driven by a motor controlled by the system. The speed of the motor, and consequently the frequency of pumps delivered by the Ambu bag, can be adjusted using a potentiometer.
 
 The potentiometer offers three levels of control: low, mid, and high. By rotating the potentiometer knob, the user can vary the resistance, thereby altering the speed of the motor and adjusting the ventilation rate accordingly. This dynamic control mechanism allows caregivers to tailor the ventilation support to the specific needs of the patient, ensuring optimal respiratory assistance.
 
