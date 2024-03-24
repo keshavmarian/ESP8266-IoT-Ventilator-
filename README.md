@@ -2,6 +2,7 @@
 
 This project presents an ESP8266-based IoT ventilator with remote control capabilities via the Blynk app. It's equipped with features like high heart rate alert and real-time blood oxygen level monitoring, making it suitable for emergency situations where conventional oxygen cylinders may not be available.
 
+*Note:* (Refer reference images .zip if images are not visible)
 
 ![WhatsApp Image 2024-03-24 at 19 22 33](https://github.com/keshavmarian/ESP8266-IoT-Ventilator-/assets/88151753/3d9a505f-ae7a-4f16-b923-fe911aa45b93)
 
@@ -56,13 +57,16 @@ In summary, the device operates as an automated ventilator system, combining rea
 
 ## Circuit Diagram
 
+*Note:* (Refer reference images .zip if images are not visible)
 ![WhatsApp Image 2024-03-24 at 18 06 19](https://github.com/keshavmarian/ESP8266-IoT-Ventilator-/assets/88151753/70f01f57-3037-4196-aaa1-de1e9128850b)
 
 ## Block Diagram 
 
+*Note:* (Refer reference images .zip if images are not visible)
 <img width="863" alt="Screenshot 2024-03-24 at 6 20 55 PM" src="https://github.com/keshavmarian/ESP8266-IoT-Ventilator-/assets/88151753/9fcb9af6-e5df-4020-abe4-8af5aa58c69d">
 
 ## BLYNK 
+*Note:* (Refer reference images .zip if images are not visible)
 ![WhatsApp Image 2024-03-24 at 19 19 01](https://github.com/keshavmarian/ESP8266-IoT-Ventilator-/assets/88151753/b4b2f62e-013e-45f0-8973-d5b9a04b2ac6)
 ![WhatsApp Image 2024-03-24 at 19 19 23](https://github.com/keshavmarian/ESP8266-IoT-Ventilator-/assets/88151753/d0a1f5a7-9487-4696-9993-4b898d4fe17c)
 
